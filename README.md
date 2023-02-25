@@ -13,3 +13,20 @@ This is sheet is prepared by Raj Vikramaditya A.K.A Striver, Candidate Master, 6
 # Disclaimer:
 
 Only start doing these problems if you feel you are comfortable with solving the basic problems of DSA. Once you are, you can start preparing for these problems, because these problems are solely interview-based.
+
+# Topic
+     01: Array                       → 24
+     02: Linked List                 → 18
+     03: Greedy                      → 06
+     04: Recursion                   → 06
+     05: Recursion & Backtracking    → 06
+     06: Binary Search               → 08
+     07: Heaps                       → 06
+     08: Stack & Queue               → 17
+     09: String                      → 12
+     10: Binary Tree                 → 33
+     11: Binary Search Tree          → 15
+     12: Graph                       → 18
+     13: DP                          → 15
+     14: Trie                        → 07
+
